@@ -1,2 +1,2 @@
 My first readme
-git pull
+git pull command
